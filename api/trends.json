@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-19T02:33:00.990686+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-10-19T05:21:50.044053+08:00",
+  "total_titles_processed": 370,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 14,
+      "match_count": 19,
       "titles": [
         {
           "title": "阿赫拉基出任伊朗新任防长",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时32分 ~ 02时33分]"
+          "appearance_count": 3,
+          "time_info": "[02时32分 ~ 05时21分]"
         },
         {
           "title": "伊朗新任国防部长：如果美方投下一枚炸弹，就必须考虑最终会有多少美军士兵被横着抬出这一地区",
@@ -25,20 +25,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时33分"
-        },
-        {
-          "title": "据伊朗学生通讯社（ISNA）消息，巴基斯坦陆军参谋长阿西姆·穆尼尔可能于本周访问德黑兰。此行据称将延续伊朗与巴基斯坦在双边事务及安全领域的密切合作，并涉及巴基斯坦在地区局势和伊朗与美国谈判中的作用。",
-          "url": "https://flash.jin10.com/detail/20261019013046076800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时33分 ~ 05时21分]"
         },
         {
           "title": "美国财政部长贝森特：美国陷入能源冲击，通胀将在（伊朗）战争结束时放缓。 欧洲继续“大肆抢购”俄罗斯能源。 鲁莽的乌克兰总统泽连斯基指控美国让StarShield（星盾）通信速度放缓。 泽连斯基在谈论美方（情报）支持时小心谨慎。（NBC News）",
@@ -47,9 +36,31 @@
           "ranks": [
             3
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时33分 ~ 05时21分]"
+        },
+        {
+          "title": "伊朗外长回应内塔尼亚胡：伊朗也有未完成的事情要与你们了结",
+          "url": "https://flash.jin10.com/detail/20261019050002905800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时33分"
+          "time_info": "05时21分"
+        },
+        {
+          "title": "伊朗海军发布油轮在海峡南部触雷视频",
+          "url": "https://flash.jin10.com/detail/20261019045158915800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
         },
         {
           "title": "黎巴嫩副总理：我们已要求伊朗任命新任驻贝鲁特大使，目前正努力解决相关外交问题。",
@@ -58,9 +69,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
+        },
+        {
+          "title": "据伊朗学生通讯社（ISNA）消息，巴基斯坦陆军参谋长阿西姆·穆尼尔可能于本周访问德黑兰。此行据称将延续伊朗与巴基斯坦在双边事务及安全领域的密切合作，并涉及巴基斯坦在地区局势和伊朗与美国谈判中的作用。",
+          "url": "https://flash.jin10.com/detail/20261019013046076800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时33分 ~ 05时21分]"
         },
         {
           "title": "伊朗武装部队开火",
@@ -70,8 +93,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时32分 ~ 02时33分]"
+          "appearance_count": 3,
+          "time_info": "[02时32分 ~ 05时21分]"
         },
         {
           "title": "冲突外溢，伊朗被曝深度介入也门冲突，埃及即将参战？",
@@ -81,8 +104,41 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时32分 ~ 05时21分]"
+        },
+        {
+          "title": "伊朗：已针对可能的新“冒险行径”制定应对方案，不再遵循对方所熟悉的规则",
+          "url": "https://wallstreetcn.com/livenews/3180654",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时32分 ~ 02时33分]"
+          "time_info": "[02时33分 ~ 05时21分]"
+        },
+        {
+          "title": "伊朗重开霍尔木兹计划仍在谈判桌上",
+          "url": "https://wallstreetcn.com/livenews/3180647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时33分 ~ 05时21分]"
+        },
+        {
+          "title": "法国骚乱持续升级，伊朗警告马克龙：参与“邪恶联盟”终将自食其果",
+          "url": "https://flash.jin10.com/detail/20261019034857596800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
         },
         {
           "title": "伊朗议会议长卡利巴夫：波斯湾数据管理局即将成立。郑重提醒该地区各国政府、基金及企业：请务必不要向任何支持入侵或杀害儿童的人工智能或数据公司提供资源，无论是资金、股权、土地还是能源。若继续向此类公司提供支持，将面临我们的执法行动。",
@@ -91,7 +147,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
         },
@@ -102,7 +158,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
         },
@@ -113,20 +169,31 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
         },
         {
-          "title": "伊朗：已针对可能的新“冒险行径”制定应对方案，不再遵循对方所熟悉的规则",
-          "url": "https://wallstreetcn.com/livenews/3180654",
-          "source": "华尔街见闻-快讯",
+          "title": "俄罗斯外交部：俄罗斯外交部长拉夫罗夫将于10月19日访问伊朗，期间将与伊朗总统佩泽希齐扬举行会晤。",
+          "url": "https://flash.jin10.com/detail/20261019023026655800",
+          "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时33分"
+          "time_info": "05时21分"
+        },
+        {
+          "title": "法国总统马克龙：燃料价格的上涨是因为对伊朗的战争。",
+          "url": "https://flash.jin10.com/detail/20261019021830372800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
         },
         {
           "title": "据伊通社（IRNA）：伊朗外交部发言人表示，此次访问是德黑兰与莫斯科持续磋商的一部分，旨在跟进落实双方达成的协议，并就地区和国际局势发展交换意见。",
@@ -135,18 +202,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时33分"
-        },
-        {
-          "title": "伊朗重开霍尔木兹计划仍在谈判桌上",
-          "url": "https://wallstreetcn.com/livenews/3180647",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
         },
@@ -157,7 +213,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
         }
@@ -165,7 +221,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 10,
       "titles": [
         {
           "title": "公开施压！泽连斯基称“星链”限速“有意为之，仅针对乌克兰”，特朗普签署行政令豁免对俄多项制裁",
@@ -175,8 +231,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时32分 ~ 02时33分]"
+          "appearance_count": 3,
+          "time_info": "[02时32分 ~ 05时21分]"
         },
         {
           "title": "美国能源部长Wright：俄罗斯帮助世界的唯一方式就是（与乌克兰）实现能源停火。 总统特朗普暂停对俄制裁是一种创新。 对（美国市场的）汽油价格不满意，但乐见油价正在下跌。 汽油价格、柴油价格已经在数周前见顶，我们希望价格继续下跌。 那些反对美国对俄实施豁免的态度根本就是错误的。",
@@ -185,9 +241,20 @@
           "ranks": [
             5
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时33分 ~ 05时21分]"
+        },
+        {
+          "title": "特朗普：不想把俄罗斯从谈判桌上赶走 泽连斯基不想结束战争",
+          "url": "https://flash.jin10.com/detail/20261019044419087800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时33分"
+          "time_info": "05时21分"
         },
         {
           "title": "美国总统特朗普：伊朗非常强硬。（福克斯新闻）",
@@ -196,20 +263,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时33分"
-        },
-        {
-          "title": "特朗普：一直打算支持内塔尼亚胡，只是不想太早表态",
-          "url": "https://flash.jin10.com/detail/20261019012501322800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时33分 ~ 05时21分]"
         },
         {
           "title": "特朗普呼吁法国关闭边境",
@@ -218,9 +274,64 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时33分 ~ 05时21分]"
+        },
+        {
+          "title": "特朗普：一直打算支持内塔尼亚胡，只是不想太早表态",
+          "url": "https://flash.jin10.com/detail/20261019012501322800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
+        },
+        {
+          "title": "伊朗前外长警告：油轮若停航一周，特朗普将迎来一场噩梦",
+          "url": "https://flash.jin10.com/detail/20261019033633792800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "泽连斯基称特朗普正逼迫乌克兰向俄罗斯投降",
+          "url": "https://flash.jin10.com/detail/20261019030234794800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "伊朗军方高层嘲讽特朗普“老到站不起身”，警告美以勿再误判",
+          "url": "https://flash.jin10.com/detail/20261019024923039800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "特朗普呼吁法国关闭边境",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%91%BC%E5%90%81%E6%B3%95%E5%9B%BD%E5%85%B3%E9%97%AD%E8%BE%B9%E5%A2%83%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
         }
       ]
     },
@@ -236,19 +347,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时32分 ~ 02时33分]"
+          "appearance_count": 3,
+          "time_info": "[02时32分 ~ 05时21分]"
         },
         {
           "title": "网传 DeepSeek V4.1 Flash 1017 指纹测出 GPT-6 Astra，这是怎么回事？",
           "url": "https://www.zhihu.com/question/2094959269275878409",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时32分 ~ 02时33分]"
+          "appearance_count": 3,
+          "time_info": "[02时32分 ~ 05时21分]"
         },
         {
           "title": "Deepseek公布API网页搜索与抓取费用：每1000次成功请求5元",
@@ -257,9 +369,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时33分 ~ 05时21分]"
         }
       ]
     },
@@ -275,19 +387,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时32分 ~ 02时33分]"
+          "appearance_count": 3,
+          "time_info": "[02时32分 ~ 05时21分]"
         },
         {
           "title": "美股收盘：科技重挫纳指跌超2% 红利、能源巨头再创新高",
           "url": "https://www.cls.cn/detail/2507375",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时32分 ~ 02时33分]"
+          "appearance_count": 3,
+          "time_info": "[02时32分 ~ 05时21分]"
         }
       ]
     },
@@ -303,8 +416,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时32分 ~ 02时33分]"
+          "appearance_count": 3,
+          "time_info": "[02时32分 ~ 05时21分]"
         }
       ]
     }
