@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-19T13:54:53.856606+08:00",
-  "total_titles_processed": 726,
+  "generated_at": "2026-10-19T20:38:29.348992+08:00",
+  "total_titles_processed": 949,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 23,
+      "match_count": 30,
       "titles": [
         {
           "title": "阿赫拉基出任伊朗新任防长",
@@ -61,6 +61,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "伊朗与俄罗斯两国外长举行会晤 磋商地区和国际局势",
+          "url": "https://wallstreetcn.com/livenews/3181223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         },
         {
           "title": "黎巴嫩副总理：我们已要求伊朗任命新任驻贝鲁特大使，目前正努力解决相关外交问题。",
@@ -132,6 +143,39 @@
           "time_info": "[02时33分 ~ 05时21分]"
         },
         {
+          "title": "伊朗革命卫队发言人穆赫比：任何国家都不会一次性动用全部武器，也不会先使用最先进的武器。长期以来，我们只是使用数十年前生产的武器。",
+          "url": "https://flash.jin10.com/detail/20261019202954559800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
+        {
+          "title": "伊朗外长在德黑兰会见俄罗斯外长拉夫罗夫，讨论双边关系及地区问题。（Tasnim通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3181220",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
+        {
+          "title": "声明显示，卡塔尔能源部长在多哈会见伊朗代理石油部长，双方讨论了能源合作事宜。",
+          "url": "https://flash.jin10.com/detail/20261019202918223800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
+        {
           "title": "法国骚乱持续升级，伊朗警告马克龙：参与“邪恶联盟”终将自食其果",
           "url": "https://flash.jin10.com/detail/20261019034857596800",
           "source": "金十数据",
@@ -171,7 +215,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -185,6 +229,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
+        },
+        {
+          "title": "俄罗斯外长访问伊朗",
+          "url": "https://wallstreetcn.com/livenews/3181208",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
+        {
+          "title": "伊朗革命卫队发言人穆赫比：如果一个地区对伊朗而言不再安全，那么整个地区都将失去安全。",
+          "url": "https://flash.jin10.com/detail/20261019202215657800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         },
         {
           "title": "伊朗方面辟谣：德黑兰东部发生爆炸的传闻不实",
@@ -207,6 +273,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
+        },
+        {
+          "title": "伊朗革命卫队发言人穆赫比：我们绝不会在较低级别的情况下，使用原本应留待更特殊情况下动用的武器。",
+          "url": "https://flash.jin10.com/detail/20261019201935416800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         },
         {
           "title": "俄罗斯外交部：俄罗斯外交部长拉夫罗夫将于10月19日访问伊朗，期间将与伊朗总统佩泽希齐扬举行会晤。",
@@ -267,7 +344,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "公开施压！泽连斯基称“星链”限速“有意为之，仅针对乌克兰”，特朗普签署行政令豁免对俄多项制裁",
@@ -281,6 +358,17 @@
           "time_info": "[02时32分 ~ 08时01分]"
         },
         {
+          "title": "特朗普：你不愿结束战争，泽连斯基：你逼乌克兰投降",
+          "url": "https://news.ifeng.com/c/8xLGtqVJ3MX",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时54分 ~ 20时38分]"
+        },
+        {
           "title": "美国能源部长Wright：俄罗斯帮助世界的唯一方式就是（与乌克兰）实现能源停火。 总统特朗普暂停对俄制裁是一种创新。 对（美国市场的）汽油价格不满意，但乐见油价正在下跌。 汽油价格、柴油价格已经在数周前见顶，我们希望价格继续下跌。 那些反对美国对俄实施豁免的态度根本就是错误的。",
           "url": "https://wallstreetcn.com/livenews/3180672",
           "source": "华尔街见闻-快讯",
@@ -290,17 +378,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时33分 ~ 05时21分]"
-        },
-        {
-          "title": "特朗普：你不愿结束战争，泽连斯基：你逼乌克兰投降",
-          "url": "https://news.ifeng.com/c/8xLGtqVJ3MX",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
         },
         {
           "title": "特朗普：不想把俄罗斯从谈判桌上赶走 泽连斯基不想结束战争",
@@ -314,6 +391,19 @@
           "time_info": "05时21分"
         },
         {
+          "title": "特朗普新任白宫发言人上任仅 5 天就被解雇，创下史上最短纪录，为什么会这样？",
+          "url": "https://www.zhihu.com/question/2094636010722411929",
+          "source": "知乎",
+          "ranks": [
+            11,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时01分 ~ 20时38分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗非常强硬。（福克斯新闻）",
           "url": "https://wallstreetcn.com/livenews/3180671",
           "source": "华尔街见闻-快讯",
@@ -325,18 +415,6 @@
           "time_info": "[02时33分 ~ 05时21分]"
         },
         {
-          "title": "特朗普新任白宫发言人上任仅 5 天就被解雇，创下史上最短纪录，为什么会这样？",
-          "url": "https://www.zhihu.com/question/2094636010722411929",
-          "source": "知乎",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 13时54分]"
-        },
-        {
           "title": "特朗普呼吁法国关闭边境",
           "url": "https://wallstreetcn.com/livenews/3180661",
           "source": "华尔街见闻-快讯",
@@ -346,6 +424,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时33分 ~ 05时21分]"
+        },
+        {
+          "title": "不满豁免对俄制裁，担心更坏事情发生，美媒称泽连斯基决定“公开对抗特朗普”",
+          "url": "https://wallstreetcn.com/articles/3783873",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         },
         {
           "title": "特朗普：一直打算支持内塔尼亚胡，只是不想太早表态",
@@ -390,6 +479,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "特朗普指示观众收看右翼广播网络。",
+          "url": "https://wallstreetcn.com/livenews/3181193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         },
         {
           "title": "泽连斯基指特朗普施压乌克兰“投降”，提出新交易：停袭俄炼厂换“爱国者”导弹",
@@ -439,7 +539,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "【早报】两部门：支持体育运动进影院；DeepSeek新模型登场",
@@ -458,11 +558,12 @@
           "url": "https://www.zhihu.com/question/2093628371448217836",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时54分 ~ 20时38分]"
         },
         {
           "title": "网传 DeepSeek V4.1 Flash 1017 指纹测出 GPT-6 Astra，这是怎么回事？",
@@ -489,26 +590,49 @@
           "time_info": "[02时33分 ~ 05时21分]"
         },
         {
+          "title": "如何评价 DeepSeek 开放自研搜索 API，单价为每 1000 次成功请求 5 元？",
+          "url": "https://www.zhihu.com/question/2094892066190915387",
+          "source": "知乎",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时54分 ~ 20时38分]"
+        },
+        {
           "title": "Deepseek 对百度搜索的冲击有多大？",
           "url": "https://www.zhihu.com/question/13453602540",
           "source": "知乎",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
         {
-          "title": "如何评价 DeepSeek 开放自研搜索 API，单价为每 1000 次成功请求 5 元？",
-          "url": "https://www.zhihu.com/question/2094892066190915387",
+          "title": "Deepseek对传统搜索的冲击有多大？",
+          "url": "https://www.zhihu.com/question/13453602540",
           "source": "知乎",
           "ranks": [
-            16
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时54分"
+          "time_info": "20时38分"
+        },
+        {
+          "title": "如何看待 DeepSeek V4.1 Flash-1017 版本更新？",
+          "url": "https://www.zhihu.com/question/2094831916344153475",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         },
         {
           "title": "DeepSeek新模型有哪些优势",
@@ -520,12 +644,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
+        },
+        {
+          "title": "DeepSeek新模型做动画能力有多强",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E5%81%9A%E5%8A%A8%E7%94%BB%E8%83%BD%E5%8A%9B%E6%9C%89%E5%A4%9A%E5%BC%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "【早报】美股纳指大跌超500点，半导体、存储股全线跳水；黄仁勋谈“AI市场震荡”；国际油价大涨；胜宏科技、豪威集团等计划回购股份",
@@ -549,6 +684,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时32分 ~ 05时21分]"
+        },
+        {
+          "title": "亚马逊美股盘前涨超2%。",
+          "url": "https://flash.jin10.com/detail/20261019202445065800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
+        {
+          "title": "摩根士丹利：美股回调或接近尾声，11月应准备逢低布局",
+          "url": "https://flash.jin10.com/detail/20261019202124368800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         },
         {
           "title": "美股期货亚市盘初走高，标普500指数期货上涨0.3%，纳斯达克100指数期货上涨0.6%。",
@@ -596,7 +753,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         }
