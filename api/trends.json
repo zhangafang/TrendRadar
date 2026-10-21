@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-21T07:04:05.850107+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2026-10-21T11:58:53.358691+08:00",
+  "total_titles_processed": 622,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普对与中俄举行三方会谈态度积极，外交部回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时04分 ~ 07时04分]"
+          "appearance_count": 5,
+          "time_info": "[03时04分 ~ 11时58分]"
         },
         {
           "title": "特朗普：也许泽连斯基是时候找别人来谈判了",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时04分 ~ 07时04分]"
+          "appearance_count": 5,
+          "time_info": "[03时04分 ~ 11时58分]"
         },
         {
           "title": "美国中期选举在即，特朗普连共和党铁盘都快守不住了",
@@ -46,11 +46,12 @@
           "source": "今日头条",
           "ranks": [
             5,
-            21
+            21,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时04分 ~ 07时04分]"
+          "appearance_count": 5,
+          "time_info": "[03时04分 ~ 11时58分]"
         },
         {
           "title": "美国总统特朗普：欧洲必须改变其方式。",
@@ -138,7 +139,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
         },
@@ -152,6 +153,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        },
+        {
+          "title": "特朗普特使向海湾盟友发出警告：美国无法永远保障其安全",
+          "url": "https://flash.jin10.com/detail/20261021111801068800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时58分"
+        },
+        {
+          "title": "特朗普为何突然对乌克兰翻脸",
+          "url": "https://www.toutiao.com/trending/7698912022229945898/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时58分"
         },
         {
           "title": "据Politico：美国中东问题特使威特科夫将促成俄罗斯总统普京与美国总统特朗普以及乌克兰总统泽连斯基进行直接对话，以争取实现停火。",
@@ -193,7 +216,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
         }
@@ -201,7 +224,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "伊朗外长：已做好应对新一轮战争的准备",
@@ -210,9 +233,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
+        },
+        {
+          "title": "伊朗总统称谈判前提是美方解除施压、威胁和制裁 | 环球市场",
+          "url": "https://www.cls.cn/detail/2510457",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时58分"
         },
         {
           "title": "伊朗总统佩泽希齐扬对巴基斯坦调解人表示：任何谈判都必须以美国首先解除所有施压、威胁和制裁为前提。（Tasnim）",
@@ -232,9 +266,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
+        },
+        {
+          "title": "伊朗已有超 3 万名女性忍者，熟练使用弓、剑、飞镖等武器等训练画面走热，背后是怎样的社会文化环境？",
+          "url": "https://www.zhihu.com/question/2095115972684112468",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时58分"
         },
         {
           "title": "据NourNews：在巴基斯坦陆军参谋长穆尼尔离开德黑兰前不久，一个卡塔尔外交代表团抵达了伊朗。",
@@ -265,7 +310,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
         },
@@ -276,7 +321,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
         },
@@ -287,7 +332,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
         }
@@ -309,16 +354,29 @@
           "time_info": "[03时04分 ~ 03时05分]"
         },
         {
+          "title": "美股收盘：三大指数涨跌不一 SpaceX绩后股价走强",
+          "url": "https://www.cls.cn/detail/2510428",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时03分 ~ 11时58分]"
+        },
+        {
           "title": "美股见顶最直接的信号：韩国芯片出口？",
           "url": "https://wallstreetcn.com/articles/3784011",
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时04分 ~ 07时04分]"
+          "appearance_count": 5,
+          "time_info": "[03时04分 ~ 11时58分]"
         },
         {
           "title": "韩国AI新股上市首日暴跌 美股科技题材再度承压 | 今夜看点",
@@ -345,24 +403,13 @@
           "time_info": "[03时04分 ~ 07时04分]"
         },
         {
-          "title": "美股收盘：三大指数涨跌不一 SpaceX绩后股价走强",
-          "url": "https://www.cls.cn/detail/2510428",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时03分 ~ 07时04分]"
-        },
-        {
           "title": "纳指期货周三盘初涨1%，SpaceX(SPCX.O)财报及与特斯拉(TSLA.O)合并消息提振美股科技股盘后行情。",
           "url": "https://flash.jin10.com/detail/20261021060317218800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
         },
@@ -373,7 +420,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
         }
@@ -381,7 +428,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "怎么看 DeepSeek 官宣单集群日均吞吐达 155 万亿 Token，单卡每小时收入 38 美金？",
@@ -389,11 +436,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时04分 ~ 07时04分]"
+          "appearance_count": 5,
+          "time_info": "[03时04分 ~ 11时58分]"
         },
         {
           "title": "如何看待 DeepSeek 开源的大规模云服务推理框架 DeepInfer ？",
@@ -414,8 +462,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时04分 ~ 07时04分]"
+          "appearance_count": 5,
+          "time_info": "[03时04分 ~ 11时58分]"
         },
         {
           "title": "DeepSeek1017屎山考核",
@@ -438,6 +486,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时03分 ~ 07时04分]"
+        },
+        {
+          "title": "DeepSeek全面开源DeepInfer",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%85%A8%E9%9D%A2%E5%BC%80%E6%BA%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时58分"
         }
       ]
     },
@@ -453,8 +512,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时04分 ~ 07时04分]"
+          "appearance_count": 5,
+          "time_info": "[03时04分 ~ 11时58分]"
         },
         {
           "title": "OpenAI已经收购Orchestra Bio。 将Orchestra Bio与Rosalind AI模型及工具整合，用于生命科学研究。（Axios）",
@@ -496,9 +555,43 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌、淡马锡控股及贝恩公司发布的一份报告显示，AI将推动东南亚数字经济增长约17%，至3680亿美元。",
+          "url": "https://flash.jin10.com/detail/20261021111914111800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "利好全来了，金价为何还是跌？",
+          "url": "https://flash.jin10.com/detail/20261021112437209800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时58分"
         }
       ]
     }
